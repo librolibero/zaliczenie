@@ -1,0 +1,2 @@
+# zaliczenie
+rwd cw1
